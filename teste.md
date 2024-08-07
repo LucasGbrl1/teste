@@ -1,3 +1,4 @@
+Essa Classe foi usada no projeto principal do grupo 6
 Caso de Teste para a Classe UserSession
 Introdução
 Este documento descreve o processo de criação e execução de um caso de teste para a classe UserSession utilizando o BlueJ. A classe UserSession implementa o padrão Singleton para gerenciar a sessão do usuário, armazenando o email do usuário logado.

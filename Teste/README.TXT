@@ -4,9 +4,7 @@ Informe ao usuário (alguém que não sabe nada sobre este projeto!) tudo que
 ele/ela precisa saber. Os comentários devem incluir, pelo menos:
 ------------------------------------------------------------------------
 
-TÍTULO DO PROJETO:
-OBJETIVO DO PROJETO:
-VERSÃO ou DATA:
-COMO INICIAR O PROJETO:
-AUTORES:
-INSTRUÇÕES PARA O USUÁRIO:
+TÍTULO DO PROJETO: Teste
+OBJETIVO DO PROJETO: Testar a classe que carrega o email para outras classes no projeto principal
+COMO INICIAR O PROJETO: Inicie o arquivo javafx da classe main 
+AUTORES: Lucas Gabriel 
